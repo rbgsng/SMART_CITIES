@@ -18,15 +18,7 @@ We thus decided to implement a platform application that would use data and try 
 2. Farming education, which include topics such as implementing community-based centers that initiate actions based on data.
 
 To help navigate our work, we here give an overview of the deliverables and where they fit in:
-* [PDF report](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/Smart%20Cities%20%26%20Governments/Empowering%20Malawians%20Report.pdf): the full report explaining the problem, solution we came up with and our reasoning
-* [Prototype Model Jupyter Notebook](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/Smart%20Cities%20%26%20Governments/Empowering%20Malawians%20Prototype.ipynb): as will be tackled in the report, we have developed a prototype machine learning model to illustrate one of our solutions. This is an illustration that our proposition could be implemented
+* [PDF report](https://github.com/rbgsng/SMART_CITIES/blob/main/Empowering%20Malawians%20Report.pdf): the full report explaining the problem, solution we came up with and our reasoning
+* [Prototype Model Jupyter Notebook](https://github.com/rbgsng/SMART_CITIES/blob/main/Empowering%20Malawians%20Prototype.ipynb): as will be tackled in the report, we have developed a prototype machine learning model to illustrate one of our solutions. This is an illustration that our proposition could be implemented
 * Javascript Google Earth Engine sample: We have extracted data from Google Earth Engine, as described in the report.
 
-# Oslo as a Smart City
-For this individual assignment in the "Smart Cities & Governments" class we had to find “use cases” that a city of our own choice has implemented. I decided to write about Oslo, not only because I'm Norwegian and have lived there for 5 years, but also because it is one of the leading countries with smart city technology.
-
-![Oslo](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/Smart%20Cities%20%26%20Governments/Oslo.jpg)
-
-In 2019, Oslo started the year as the “European Green Capital”, awarded by the European Commission. When visiting, you can see electric or hydrogen busses driving by, hitch a ride with the tram run on electricity, park your car and pay with your phone, pay for public transportation on your phone, connect your travel route by city bikes and public transportation in the transportation planner app, check how your children are doing in kindergarten by a few clicks on your phone and much more. The city of Oslo is about digitalization, and what can be digitalized, will be digitalized. Oslo is committed to making the city as green and best for people as possible, with many projects at their hand. A few of them will be discussed when looking at different use cases about Oslo’s data strategy, smart people, smart mobility and smart environment.
-
-If you want to read more, you can access the report by clicking [this link](https://github.com/Jonashellevang/IE_MBD_2020/blob/master/Smart%20Cities%20%26%20Governments/Oslo%20as%20a%20Smart%20City%20Report.pdf).
